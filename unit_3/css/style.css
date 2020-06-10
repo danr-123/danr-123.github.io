@@ -1,19 +1,24 @@
 body{
 	background-color:green;
 	text-align: center;
-}
-#second{
-	font-weight: bold;
+	color: #FF4500	;
 
 }
-h1, p{
+
+h1{
 	font-family: Arial, sans-serif;
-	color:black;
+	color: #0248D4;
 	font-size: 24px;
 }
 h2{
 	font-family: Arial, sans-serif;
-	font-weight: normal;
+	font-size: 20px;
+}
+#slogan{
+	color:white;
+	font-size: 25px;
 	text-decoration: underline;
-	text-transform: uppercase;
+}
+#email{
+	font-size: 20px;
 }
